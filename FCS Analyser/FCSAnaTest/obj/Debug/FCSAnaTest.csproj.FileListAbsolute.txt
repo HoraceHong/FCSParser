@@ -1,0 +1,7 @@
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\bin\Debug\FCSAnaTest.dll
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\bin\Debug\FCSAnaTest.pdb
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\obj\Debug\FCSAnaTest.dll
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\obj\Debug\FCSAnaTest.pdb
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\bin\Debug\AnalyseFile.dll
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCSAnaTest\bin\Debug\AnalyseFile.pdb

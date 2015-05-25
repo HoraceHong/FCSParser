@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCS Analyser", "FCS Analyser\FCS Analyser.csproj", "{83E267DE-9338-4F4A-B860-061ED9E52596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FCSAnaTest", "FCSAnaTest\FCSAnaTest.csproj", "{2BE59843-B117-4D91-927E-F6950F04F755}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87661714-1F89-4AE2-B050-5A89FA11078C}"
+	ProjectSection(SolutionItems) = preProject
+		FCS Analyser.vsmdi = FCS Analyser.vsmdi
+		LocalTestRun.testrunconfig = LocalTestRun.testrunconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyseFile", "AnalyseFile\AnalyseFile.csproj", "{8063C15F-A644-4B06-8C74-C844997ABC6B}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = FCS Analyser.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E267DE-9338-4F4A-B860-061ED9E52596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E267DE-9338-4F4A-B860-061ED9E52596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E267DE-9338-4F4A-B860-061ED9E52596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E267DE-9338-4F4A-B860-061ED9E52596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE59843-B117-4D91-927E-F6950F04F755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE59843-B117-4D91-927E-F6950F04F755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE59843-B117-4D91-927E-F6950F04F755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE59843-B117-4D91-927E-F6950F04F755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8063C15F-A644-4B06-8C74-C844997ABC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8063C15F-A644-4B06-8C74-C844997ABC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8063C15F-A644-4B06-8C74-C844997ABC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8063C15F-A644-4B06-8C74-C844997ABC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

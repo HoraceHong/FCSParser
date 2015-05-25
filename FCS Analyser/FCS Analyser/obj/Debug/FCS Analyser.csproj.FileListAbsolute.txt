@@ -1,0 +1,12 @@
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\bin\Debug\FCS Analyser.exe
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\bin\Debug\FCS Analyser.pdb
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\Window1.baml
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\Window1.g.cs
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\App.g.cs
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS Analyser_MarkupCompile.cache
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS Analyser.g.resources
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS_Analyser.Properties.Resources.resources
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS Analyser.csproj.GenerateResource.Cache
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS Analyser.exe
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\FCS Analyser\obj\Debug\FCS Analyser.pdb

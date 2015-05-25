@@ -1,0 +1,5 @@
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\AnalyseFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\AnalyseFile\bin\Debug\AnalyseFile.dll
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\AnalyseFile\bin\Debug\AnalyseFile.pdb
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\AnalyseFile\obj\Debug\AnalyseFile.dll
+C:\Users\yhong01\Documents\Visual Studio 2008\Projects\FCS Analyser\AnalyseFile\obj\Debug\AnalyseFile.pdb
